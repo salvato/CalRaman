@@ -1,0 +1,8 @@
+SET TITLE
+'Fitting dati calore specifico con BP Raman
+    1 'a         '     0.0057233        8.3823             0             0
+    2 'deltamin  '        31.367        9254.3             0             0
+    3 'deltamax  '         106.3         31648             0             0
+    4 'alpha     '       0.84529        277.47             0             0
+    5 'b         '             0             0             0             0
+    6 'a1        '     2.33e-008             0             0             0
